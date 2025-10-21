@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForgotPassword</string>
+    <string name="title_activity_screens">Screens</string>
+    <string name="title_activity_routes">Routes</string>
+</resources>
